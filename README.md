@@ -22,4 +22,5 @@ I am Ayesha Saleem, a BSIT student learning AI engineering. NumPy and pandas are
 | 1 | 2026-11-06 | mean() | mean() |
 | 2 | 2026-11-12 | max() | max() |
 | 3 | 2026-11-13 | min() | min() |
+| 4 | 2026-11-18 | median() | median() |
 
