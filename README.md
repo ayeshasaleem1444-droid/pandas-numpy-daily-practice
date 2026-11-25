@@ -27,3 +27,4 @@ I am Ayesha Saleem, a BSIT student learning AI engineering. NumPy and pandas are
 | 6 | 2026-11-21 | cumsum() | cumsum() |
 | 7 | 2026-11-22 | percentile() | quantile() |
 | 8 | 2026-11-23 | sort() | sort_values() |
+| 9 | 2026-11-25 | Boolean masking | filtering |
